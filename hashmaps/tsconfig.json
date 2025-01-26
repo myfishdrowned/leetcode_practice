@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "es2015",              /* Use ECMAScript 2015 features. */
+    "lib": ["es2015", "dom"],        /* Include ES2015 features and browser APIs like `console`. */
+    "module": "commonjs",            /* Use CommonJS for the module system. */
+    "strict": true,                  /* Enable all strict type-checking options. */
+    "esModuleInterop": true,         /* Enable compatibility for CommonJS and ES modules. */
+    "forceConsistentCasingInFileNames": true, /* Enforce consistent casing in imports. */
+    "skipLibCheck": true             /* Skip type-checking declaration files. */
+  }
+}
