@@ -7,6 +7,6 @@ def twosum(nums, target):
             return [hashmap[difference], i]
         hashmap[j] = i
 nums = [1, 2, 4, 5]
-target = 9
+target = 6
 
 print(twosum(nums, target))
