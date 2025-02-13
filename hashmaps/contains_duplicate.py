@@ -7,5 +7,5 @@ def contains_duplicate(nums):
         hashmap[j] += 1
     return False
 
-nums = [1,2,3,4]
+nums = [1,2,3,2]
 print(contains_duplicate(nums))
